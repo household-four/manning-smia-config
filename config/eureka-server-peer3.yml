@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: eurekaserver1
+    hostname: eurekaserver3
     preferIpAddress: false
   client:
     registerWithEureka: true
